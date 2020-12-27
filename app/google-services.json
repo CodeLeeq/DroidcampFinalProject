@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "740630401576",
+    "project_id": "droidcampfinalproject",
+    "storage_bucket": "droidcampfinalproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740630401576:android:bba0a0fa103bdd982e5b1d",
+        "android_client_info": {
+          "package_name": "com.example.droidcampfinalproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740630401576-r9p37fmj9ojf2hgbjjbm0k820l6nmhrh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFpS1PXLdnndu3qkOrj3AEeS9tApwcmPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740630401576-r9p37fmj9ojf2hgbjjbm0k820l6nmhrh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
